@@ -1,0 +1,13 @@
+Package: demo
+Version: 0.99.0
+Title: Demonstration Aggregator
+Authors@R: person("Aaron", "Lun", role=c("cre", "aut"), email="infinite.monkeys.with.keyboards@gmail.com")
+Description:
+    Demonstration package for aggregating cells.
+Imports:
+    Rcpp,
+    beachmat
+LinkingTo:
+    Rcpp,
+    beachmat
+RoxygenNote: 7.3.1
